@@ -6,9 +6,9 @@ series:
 tags: [deploying, kubernetes, k8s, linux, vmware, esxi, part1, post]
 description: "The third article of the Deploying Kubernetes series. This article follows on the last guide, *Deploying Core Networking*, where we have our front-end, back-end & storage area networks configured."
 date: 2022-10-09
-author: "Martin George"
+author: "martin-george"
 preview_image: /images/deploying-kubernetes-part-3-deploying-network-file-server/preview_image.jpg
-#layout: ../../layouts/Post.astrocategory: Instructional
+layout: ../../layouts/Blog/BlogPost/BlogPost.astro
 ---
 # Deploying Kubernetes Part 3 - Deploying the Network File Server
 

@@ -6,9 +6,9 @@ series:
 tags: [deploying, kubernetes, linux, part4, instructional, cilium]
 description: "The fourth article of the Deploying Kubernetes series. This article follows on the previous instructional, *Deploying Network Storage*, where we configured our network file server for later usage by workloads running on our Kubernetes stack."
 date: 2022-11-13
-author: "Martin George"
+author: "martin-george"
 preview_image: /images/deploying-kubernetes-part-4-deploying-kubernetes/kubernetes.png
-#layout: ../../layouts/Post.astrocategory: Instructional
+layout: ../../layouts/Blog/BlogPost/BlogPost.astro
 ---
 
 # Deploying Kubernetes Part 4 - Deploying Kubernetes with Cilium

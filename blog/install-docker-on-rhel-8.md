@@ -3,8 +3,8 @@ title: Install Docker on RHEL 8
 tags: [docker, rhel, linux, instructional, post]
 description: "This is an instructional article that provides a simple methodology on how to install Docker onto Red Hat Enterprise Linux 8" 
 date: 2021-12-11
-author: "Martin George"
-#layout: ../../layouts/Post.astrocategory: Instructional
+author: "martin-george"
+layout: ../../layouts/Blog/BlogPost/BlogPost.astro
 preview_image: /images/install-docker-on-rhel-8/docker.png
 
 ---

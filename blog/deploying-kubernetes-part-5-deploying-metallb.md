@@ -6,9 +6,9 @@ series:
 tags: [deploying, kubernetes, linux, part5, instructional, metallb]
 description: "Welcome to the fifth part of our series on deploying Kubernetes!  This article follows on the last guide, *Deploying Kubernetes*, where we deployed Kubernetes, using Cilium as the networking CNI. In this installment, we will be covering how to deploy MetalLB, a load-balancer implementation for bare metal Kubernetes clusters."
 date: 2023-01-06
-author: "Martin George"
+author: "martin-george"
 preview_image: /images/deploying-kubernetes-part-5-deploying-metallb/metallb.png
-#layout: ../../layouts/Post.astrocategory: Instructional
+layout: ../../layouts/Blog/BlogPost/BlogPost.astro
 
 ---
 

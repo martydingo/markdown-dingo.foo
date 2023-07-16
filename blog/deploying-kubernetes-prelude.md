@@ -1,11 +1,11 @@
 ---
 title: Deploying Kubernetes - Prelude
-author: "Martin George"
+author: "martin-george"
 tags: [kubernetes, k8s, linux, post]
 description: "This is the prelude to a multi-part series on deploying Kubernetes. Many articles only cover the initial installation, usually stopping following the installation of the CNI (Container Networking Interface) plugin, however there is still so much more to configure from this point, from file storage, to more advanced network configurations that leverages BGP (e.g. `MetalLB`)."
 date: 2022-08-20
 preview_image: /images/deploying-kubernetes-prelude/kubernetes.png
-#layout: ../../layouts/Post.astrocategory: Article
+layout: ../../layouts/Blog/BlogPost/BlogPost.astro
 ---
 
 # Deploying Kubernetes - Prelude

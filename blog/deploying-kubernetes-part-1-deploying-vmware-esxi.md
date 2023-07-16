@@ -3,12 +3,12 @@ title: Deploying VMWare ESXI
 series:
   name: Deploying Kubernetes
   part: 5
-author: "Martin George"
+author: "martin-george"
 tags: [deploying, kubernetes, k8s, linux, vmware, esxi, part1, post]
 description: "The first part of the *'Deploying Kubernetes'* series. This instructional will cover the deployment of VMWare ESXI, the virtualisation server that will eventually be running our Kubernetes virtual machines!"
 date: 2022-08-21
 preview_image: /images/deploying-kubernetes-part-1-deploying-vmware-esxi/DeployingVMWare-Step1.png
-layout: ../../layouts/Posts/Post.astro
+layout: ../../layouts/Blog/BlogPost/BlogPost.astro
 category: Instructional
 ---
 

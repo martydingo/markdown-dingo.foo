@@ -3,8 +3,8 @@ title: Release - PDNS Authoritative Nameserver Docker Image
 tags: [docker, pdns, linux, release, dns, auth, nameserver, powerdns, post]
 description: "This is an article that details the release of a docker image for PDNS Authoritative Nameserver, for running PowerDNS Authoritative in Docker"
 date: 2021-12-13
-author: "Martin George"
-#layout: ../../layouts/Post.astrocategory: Release
+author: "martin-george"
+layout: ../../layouts/Blog/BlogPost/BlogPost.astro
 preview_image: /images/release-pdns_authoritative_nameserver_docker_image/powerdns.png
 
 ---

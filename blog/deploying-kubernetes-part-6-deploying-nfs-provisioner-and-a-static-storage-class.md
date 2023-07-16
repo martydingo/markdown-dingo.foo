@@ -6,9 +6,9 @@ series:
 tags: [deploying, kubernetes, linux, part6, instructional, nfs, provisioner, dynamic, persistentvolume, persistentvolumeclaim]
 description: "Welcome to the sixth part of our series on deploying Kubernetes! In this tutorial, we will be discussing how to deploy NFS provisioner for dynamic volume provisioning."
 date: 2023-01-07
-author: "Martin George"
+author: "martin-george"
 preview_image: /images/deploying-kubernetes-part-6-deploying-nfs-provisioner-and-a-static-storage-class/nfs-provisioner.png
-#layout: ../../layouts/Post.astrocategory: Instructional
+layout: ../../layouts/Blog/BlogPost/BlogPost.astro
 
 ---
 

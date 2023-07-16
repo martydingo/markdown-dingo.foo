@@ -6,9 +6,9 @@ series:
 tags: [deploying, kubernetes, linux, part7, instructional, powerdns, dns, authoritative, pdns]
 description: "Welcome to the sixth part of our series on deploying Kubernetes! In this tutorial, we will be discussing how to deploy NFS provisioner for dynamic volume provisioning."
 date: 2023-01-08
-author: "Martin George"
+author: "martin-george"
 preview_image: /images/deploying-kubernetes-part-7-deploying-powerdns/powerdns.png
-#layout: ../../layouts/Post.astrocategory: Instructional
+layout: ../../layouts/Blog/BlogPost/BlogPost.astro
 
 ---
 

@@ -3,8 +3,8 @@ title: Install Kubernetes with Cilium on RHEL 8
 tags: [kubernetes, k8s, docker, rhel, linux, cilium, instructional, post]
 description: "This is an instructional article that describes an install process of Kubernetes, using Cilium as it's networking CNI, onto Red Hat Enterprise Linux 8 hosts, using a one control plane, two worker node design."
 date: 2022-04-03
-author: "Martin George"
-#layout: ../../layouts/Post.astrocategory: Instructional
+author: "martin-george"
+layout: ../../layouts/Blog/BlogPost/BlogPost.astro
 preview_image: /images/install-kubernetes-and-cilium-on-rhel-8/cilium.png
 
 ---

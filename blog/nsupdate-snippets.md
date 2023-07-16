@@ -3,9 +3,9 @@ title: NSUpdate Snippets
 tags: [dns, snippet, nsupdate, zone, bind, post]
 description: "A snippet of nsupdate to demostrate using nsupdate to dynamically update zones without interacting with a zone file"
 date: 2022-04-03
-author: "Martin George"
+author: "martin-george"
 preview_image: /images/nsupdate-snippets/nsupdate.png
-#layout: ../../layouts/Post.astrocategory: Reference
+layout: ../../layouts/Blog/BlogPost/BlogPost.astro
 ---
 
 # NSUpdate Snippets
