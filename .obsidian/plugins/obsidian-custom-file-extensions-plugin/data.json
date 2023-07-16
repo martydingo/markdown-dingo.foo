@@ -1,0 +1,10 @@
+{
+  "additionalFileTypes": {
+    "markdown": [
+      "md",
+      "mdx",
+      "mdoc"
+    ]
+  },
+  "currentValueIsInvalidJson": false
+}

@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "a563bc03d883e611",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb91e324181af112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "814e92d245811d6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "authors/Martin George.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ad6d9519f61ec8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eda22a7422cbde6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7867ad5fb464ae17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8f363ae40b56f75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef44e0aa4aee5d25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 503.5
+  },
+  "right": {
+    "id": "bdb31f0f2973aff8",
+    "type": "split",
+    "children": [
+      {
+        "id": "546c7bb362761dd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02ec89c122430e74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "authors/Martin George.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86d217230a9187c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "authors/Martin George.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1feac3aadaab5276",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5363a3d74f312b1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "authors/Martin George.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "814e92d245811d6a",
+  "lastOpenFiles": [
+    "blog/a-template-python-cli-application.mdx",
+    "authors/Martin George.md",
+    "authors",
+    "blog/deploying-kubernetes-part-2-deploying-core-networking.mdx",
+    "blog/deploying-kubernetes-part-3-deploying-network-file-server.md",
+    "blog/deploying-kubernetes-part-1-deploying-vmware-esxi.md",
+    "blog/deploying-kubernetes-prelude.md",
+    "blog/install-kubernetes-and-cilium-on-rhel-8.md"
+  ]
+}
